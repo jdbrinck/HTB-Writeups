@@ -28,7 +28,6 @@ Walkthroughs and notes from my work on [Hack The Box](https://www.hackthebox.com
 
 ## Skills demonstrated
 - **Web** — SSRF, SSTI, template-engine RCE, file-upload bypass, XXE, command injection, XSS (blind / session hijacking)
-- _(add as you go: AD, privesc, reversing, crypto, ...)_
 
 ## Scope
 > [!IMPORTANT]
