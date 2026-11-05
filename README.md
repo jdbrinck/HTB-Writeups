@@ -2,6 +2,8 @@
 
 Walkthroughs and notes from my work on [Hack The Box](https://www.hackthebox.com/) — machines, challenges, and Academy modules. These document how I approach a target: enumeration, the reasoning behind each step, the dead ends, and the reusable takeaways.
 
+> 🔗 **My HTB profile:** https://profile.hackthebox.com/profile/019d98f7-df29-7381-a60c-4159ff40b319
+
 > _About me: <a line or two — who you are, what you focus on (web, AD, etc.), and what you're looking for>._
 
 ## Index
