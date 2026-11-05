@@ -4,7 +4,7 @@ Walkthroughs and notes from my work on [Hack The Box](https://www.hackthebox.com
 
 > 🔗 **My HTB profile:** https://profile.hackthebox.com/profile/019d98f7-df29-7381-a60c-4159ff40b319
 
-> _Cybersecurity professional with dual degrees in Cybersecurity and Software Engineering. I use Hack The Box to sharpen my offensive security skills — these writeups document the methodology behind each solve, not just the flag. Open to opportunities in offensive/application security._
+> _Cybersecurity professional with dual degrees in Cybersecurity and Software Engineering. I use Hack The Box to sharpen my offensive security skills — these writeups document the methodology behind each solve, not just the flag._
 
 ## Index
 
