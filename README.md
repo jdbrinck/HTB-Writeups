@@ -10,6 +10,9 @@ Walkthroughs and notes from my work on [Hack The Box](https://www.hackthebox.com
 | Module / Assessment | Topic | Writeup |
 |---|---|---|
 | SSRF — Final Assessment | SSRF -> SSTI -> RCE (Twig) | [TruckAPI](academy/ssrf-final-assessment.md) |
+| File Upload Attacks — Skills Assessment | Upload filter bypass -> XXE -> RCE | [File Upload Chain](academy/file-upload-skills-assessment.md) |
+| Command Injections — Skills Assessment | Filter-bypass OS command injection | [Command Injection](academy/command-injection-skills-assessment.md) |
+| Cross-Site Scripting (XSS) — Skills Assessment | Blind XSS -> admin cookie theft | [Blind XSS](academy/xss-skills-assessment.md) |
 
 ### Machines
 | Box | Difficulty | OS | Writeup |
@@ -22,8 +25,8 @@ Walkthroughs and notes from my work on [Hack The Box](https://www.hackthebox.com
 | _(challenge writeups go here)_ | | |
 
 ## Skills demonstrated
-- **Web** — SSRF, SSTI, template-engine RCE
-- _(add as you go: injection, AD, privesc, reversing, crypto, ...)_
+- **Web** — SSRF, SSTI, template-engine RCE, file-upload bypass, XXE, command injection, XSS (blind / session hijacking)
+- _(add as you go: AD, privesc, reversing, crypto, ...)_
 
 ## Scope
 > [!IMPORTANT]
