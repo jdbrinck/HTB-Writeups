@@ -16,6 +16,7 @@ Walkthroughs and notes from my work on [Hack The Box](https://www.hackthebox.com
 | Command Injections — Skills Assessment | Filter-bypass OS command injection | [Command Injection](academy/command-injection-skills-assessment.md) |
 | Cross-Site Scripting (XSS) — Skills Assessment | Blind XSS -> admin cookie theft | [Blind XSS](academy/xss-skills-assessment.md) |
 | Login Brute Forcing — Skills Assessment | Basic-auth -> SSH -> pivot -> FTP (Hydra) | [Brute Force Chain](academy/brute-force-skills-assessment.md) |
+| Broken Authentication — Skills Assessment | User enum -> password brute force -> 2FA bypass | [Broken Auth](academy/broken-authentication-skills-assessment.md) |
 
 ### Machines
 | Box | Difficulty | OS | Writeup |
@@ -29,7 +30,7 @@ Walkthroughs and notes from my work on [Hack The Box](https://www.hackthebox.com
 
 ## Skills demonstrated
 - **Web** — SSRF, SSTI, template-engine RCE, file-upload bypass, XXE, command injection, XSS (blind / session hijacking)
-- **Access** — credential brute forcing (Hydra), username enumeration, SSH/FTP, loopback pivoting
+- **Access** — credential brute forcing (Hydra/ffuf), username enumeration, SSH/FTP, loopback pivoting, 2FA bypass via response manipulation
 - _(add as you go: AD, privesc, reversing, crypto, ...)_
 
 ## Scope
